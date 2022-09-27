@@ -43,13 +43,13 @@ global.location = "SriLanka, Kaluthara, Panadura" //ur location
 //bot bomdy 
 global.owner = ['94754625969']
 global.ownertag = '94754625969' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
+global.botname = 'Queen-Melissa-Beta👸' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
+global.packname = "Made by blackpanther💉" //ur sticker watermark packname
 global.author = "Hasaboy" //ur sticker watermark author
 
 //Bot theme media
