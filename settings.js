@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94753420144'
+global.REACT_NUMBER = '94776157122'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,15 +34,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
+global.vcardowner = ['94776157122'] //ur owner number
+global.ownername = "LOKKA" //ur owner name
 global.ytname = "YT: SenuBoy" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
+global.owner = ['94776157122']
+global.ownertag = '94776157122' //ur tag number
 global.botname = 'Queen-Melissa-Beta' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
